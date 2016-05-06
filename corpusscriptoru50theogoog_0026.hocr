@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru50theogoog/corpusscriptoru50theogoog_0026.png"; bbox 0 0 3025 4784; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 146 1859 1270 2077">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 146 1859 1270 2077">
+     <span class='ocr_line' id='line_1_1' title="bbox 146 1859 1270 2077; baseline -0.003 -21"><span class='ocrx_word' id='word_1_1' title='bbox 146 1941 576 2056; x_wconf 68' lang='lat' dir='ltr'>memor</span> <span class='ocrx_word' id='word_1_2' title='bbox 627 1940 785 2056; x_wconf 77' lang='lat' dir='ltr'><strong><em>Tor</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 829 1859 1270 2077; x_wconf 67' lang='lat' dir='ltr'>fflfflwor</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 394 2351 1044 2428">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 394 2351 1044 2428">
+     <span class='ocr_line' id='line_1_2' title="bbox 394 2351 1044 2428; baseline 0.008 -5"><span class='ocrx_word' id='word_1_4' title='bbox 394 2351 684 2426; x_wconf 73' lang='grc' dir='ltr'><em>ΣΥΝΟΨΙΣ</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 732 2354 1044 2428; x_wconf 72' lang='grc' dir='ltr'><strong><em>ΙΣΤΟΡΙΩΝ.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1518 4784">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1518 4784">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1518 4784; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1518 4784; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
